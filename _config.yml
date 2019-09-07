@@ -11,4 +11,4 @@ show_excerpts: true
 exclude: [README.md]
 timezone: America/Denver
 
-theme: jekyll-theme-midnight
+theme: minima
